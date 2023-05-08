@@ -2,6 +2,7 @@
 I aim to bring innovative ideas and unconventional problem-solving skills to the table, creating unique solutions for common issues.
 
 As a student at Microverse, a remote software development school, I have been trained in the art of development through pair programming and hands-on projects. I take pride in continuously learning new tools and techniques every week and spend my free time solidifying my knowledge. For me, the learning process is valuable and I find joy in it as a fundamental aspect of life.
+
 Before joining this school, I also accomplished a C language basics course. Although challenging, it helped me develop stronger problem-solving skills, increased my resilience to stress, and boosted my confidence.
 
 In addition to that, I pursued self-education in UI/UX, HTML, CSS, PHP, and MySQL, and used those skills to deploy several real-life projects. I have a natural inclination toward problem-solving and strategic thinking, and I am constantly seeking new knowledge and ways to enhance systems. I enjoy devising effective plans and am not afraid to experiment with new approaches.
