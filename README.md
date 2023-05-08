@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :shipit: About Me:
 I aim to bring innovative ideas and unconventional problem-solving skills to the table, creating unique solutions for common issues.
 
 As a student at Microverse, a remote software development school, I have been trained in the art of development through pair programming and hands-on projects. I take pride in continuously learning new tools and techniques every week and spend my free time solidifying my knowledge. For me, the learning process is valuable and I find joy in it as a fundamental aspect of life.
