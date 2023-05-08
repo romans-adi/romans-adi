@@ -14,7 +14,6 @@ In addition to that, I pursued self-education in UI/UX, HTML, CSS, PHP, and MySQ
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=romans-adi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=romans-adi&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=romans-adi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 #
 ![](https://github-profile-trophy.vercel.app/?username=romans-adi&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
