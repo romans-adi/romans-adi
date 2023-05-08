@@ -19,7 +19,6 @@ In addition to that, I pursued self-education in UI/UX, HTML, CSS, PHP, and MySQ
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=romans-adi&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
