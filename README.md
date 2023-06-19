@@ -1,5 +1,5 @@
-# <div align="center">Hi there, I'm Romans! :shipit:</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/obj583)<br />
+# <div align="left"> 🐙 Hi there, I'm Romans! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/obj583)</div>
+<br />
 
 I am a versatile software developer with a strong background in UI/UX design, HTML, CSS, PHP, and MySQL. With hands-on experience in deploying web applications, I have honed my skills in creating visually appealing and user-friendly interfaces.
 
