@@ -1,7 +1,17 @@
 # <div align="left"> 🐙 Hi there, I'm Romans! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
 <br />
 
-As a versatile software developer, my expertise encompasses UI/UX design and proficiency in HTML, CSS, JavaScript, PHP, and MySQL. I have hands-on experience deploying web applications, allowing me to create visually appealing and user-friendly interfaces.<br><br>During my comprehensive training at Microverse, a renowned coding school with a focus on remote pair programming, I developed a solid foundation in software development principles. Collaborating with developers from diverse backgrounds, I gained practical experience and honed my skills.<br><br>My passion for continuous learning led me to recently learn Ruby, and I'm eager to apply my knowledge and work with Ruby and Ruby on Rails. I am driven by strategic problem-solving, always seeking innovative approaches to overcome challenges and optimize system performance.<br><br>I have successfully executed projects that showcase my ability to deliver high-quality web solutions, providing engaging user experiences and efficient backend functionalities.<br><br>Currently, I am actively seeking new opportunities in the software engineering field where I can contribute my unique skills and perspectives. If you are looking for a dedicated and adaptable developer to join your team, I would be thrilled to discuss how I can add value to your organization through my expertise in Ruby and beyond.<br><br>Let's connect and explore the possibilities of collaborating together to achieve exceptional results!
+I'm a versatile software developer experienced in UI/UX design and proficient in HTML, CSS, JavaScript (including React and Vue.js), PHP, Ruby, and relational databases (RDBMS). I've deployed web applications, creating user-friendly interfaces.
+
+I trained at Microverse, a well-known online coding school, where I gained a strong foundation in software development principles by collaborating with diverse developers.
+
+Recently, I learned Ruby on Rails, and I'm excited to apply my knowledge. I'm passionate about solving problems and finding innovative solutions.
+
+I've successfully executed projects that demonstrate my ability to create high-quality web solutions with engaging user experiences and efficient backend functionalities.
+
+Actively seeking new software engineering opportunities, I'm dedicated, adaptable, and eager to discuss how I can contribute my skills to your team.
+
+Let's connect and explore the potential of collaborating for exceptional results!
 
 # 💻 Tech Stack
 
