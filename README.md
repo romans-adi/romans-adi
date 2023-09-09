@@ -3,7 +3,7 @@
 
 I'm a versatile software developer experienced in UI/UX design and proficient in HTML, CSS, JavaScript (including <strong>React</strong> and some Vue.js), as well as having some experience with PHP, <strong>Ruby</strong>, and relational databases (RDBMS). Recently, I learned <strong>Ruby on Rails</strong>, and I'm excited to apply my knowledge. I'm passionate about solving problems and finding innovative solutions.
 
-I trained at Microverse, a well-known online coding school, where I gained a strong foundation in software development principles by collaborating with diverse developers and have successfully executed projects that demonstrate my ability to create high-quality web solutions with engaging user experiences and efficient backend functionalities.
+I trained at Microverse, an online coding school, where I gained a strong foundation in software development principles by collaborating with diverse developers and have successfully executed projects that demonstrate my ability to create high-quality web solutions with engaging user experiences and efficient backend functionalities.
 
 Actively seeking new software engineering opportunities, I'm dedicated, adaptable, and eager to discuss how I can contribute my skills to your team. Let's connect and explore the possibilities of collaborating together to achieve exceptional results!
 
