@@ -1,4 +1,4 @@
-# <div align="left"> 🐙 Hi there, I'm Romans! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
+# <div align="left"> 🐙 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
 <br />
 
 I'm a versatile software developer experienced in UI/UX design and proficient in HTML, CSS, JavaScript (including <strong>React</strong> and some Vue.js), as well as having some experience with PHP, <strong>Ruby</strong>, and relational databases (RDBMS). Recently, I learned <strong>Ruby on Rails</strong>, and I'm excited to apply my knowledge. I'm passionate about solving problems and finding innovative solutions.
