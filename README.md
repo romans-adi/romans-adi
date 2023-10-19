@@ -5,7 +5,7 @@ I'm a versatile software developer experienced in UI/UX design and proficient in
 
 I trained at Microverse, an online coding school, where I gained a strong foundation in software development principles by collaborating with diverse developers and have successfully executed projects that demonstrate my ability to create high-quality web solutions with engaging user experiences and efficient backend functionalities.
 
-I am actively pursuing new software engineering opportunities and bring a strong commitment, adaptability, and a desire to discuss how my skills can enhance your team. I invite you to connect so that we can explore the potential for collaboration, ultimately achieving outstanding results together.
+I am actively pursuing new software engineering opportunities and bring a strong commitment, adaptability, and a desire to discuss how my skills can enhance your team.
 
 # 💻 Tech Stack
 
