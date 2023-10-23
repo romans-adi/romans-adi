@@ -1,4 +1,4 @@
-# <div align="left"> Hi. <br /> My name is Romans. <br /> I engineer web solutions. <br /> 🐙 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
+# <div align="left"> Hi. | <br /> My name is Romans. | <br /> I engineer web solutions. | <br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/) :pig:</div>
 <br />
 
 As a flexible software developer, my expertise extends to UI/UX design, and I command a skill set encompassing HTML, CSS, JavaScript (including React and some Vue.js), Ruby (including the robust Rails framework), as well as experience with PHP and relational databases (RDBMS).
