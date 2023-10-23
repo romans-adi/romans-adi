@@ -1,11 +1,15 @@
-# <div align="left"> 🐙 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
+# <div align="left"> Hi. <br /> My name is Romans. <br /> I engineer web solutions. <br /> 🐙 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obj513/)</div>
 <br />
 
-I'm a versatile software developer experienced in UI/UX design and proficient in HTML, CSS, JavaScript (including <strong>React</strong> and some Vue.js), as well as having some experience with PHP, <strong>Ruby</strong>, and relational databases (RDBMS). Recently, I learned <strong>Ruby on Rails</strong>, and I'm excited to apply my knowledge. I'm passionate about solving problems and finding innovative solutions.
+As a flexible software developer, my expertise extends to UI/UX design, and I command a skill set encompassing HTML, CSS, JavaScript (including React and some Vue.js), Ruby (including the robust Rails framework), as well as experience with PHP and relational databases (RDBMS).
 
-I trained at Microverse, an online coding school, where I gained a strong foundation in software development principles by collaborating with diverse developers and have successfully executed projects that demonstrate my ability to create high-quality web solutions with engaging user experiences and efficient backend functionalities.
+Journeys, both on the road and in the code, reflect the balance I ardently maintain in life. I've covered a comparable distance hitchhiking as the hours dedicated to coding.
 
-I am actively pursuing new software engineering opportunities and bring a strong commitment, adaptability, and a desire to discuss how my skills can enhance your team.
+I honed my skills at Microverse, an online coding school, collaborating with a diverse cohort of developers. This experience has equipped me with a solid foundation in software development principles. My portfolio is a testament to my ability to construct high-quality web solutions, blending engaging user experiences with a keen eye for UI/UX design.
+
+As I actively seek new software engineering opportunities, I bring a resolute commitment, unwavering adaptability, and an insatiable appetite for discussing how my skills can elevate your team.
+
+I invite you to connect, setting the stage for us to explore the possibilities of collaboration, ultimately steering toward achieving exceptional results together.
 
 # 💻 Tech Stack
 
