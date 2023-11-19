@@ -5,11 +5,8 @@ As a flexible software developer, my expertise extends to UI/UX design, and I co
 
 Journeys, both on the road and in the code, reflect the balance I ardently maintain in life. I've covered a comparable distance hitchhiking as the hours dedicated to coding.
 
-I honed my skills at Microverse, an online coding school, collaborating with a diverse cohort of developers. This experience has equipped me with a solid foundation in software development principles. My portfolio is a testament to my ability to construct high-quality web solutions, blending engaging user experiences with a keen eye for UI/UX design.
+I honed my skills at online coding school, collaborating with a diverse cohort of developers. This experience has equipped me with a solid foundation in software development principles. My portfolio is a testament to my ability to construct high-quality web solutions, blending engaging user experiences with a keen eye for UI/UX design.
 
-As I actively seek new software engineering opportunities, I bring a resolute commitment, unwavering adaptability, and an insatiable appetite for discussing how my skills can elevate your team.
-
-I invite you to connect, setting the stage for us to explore the possibilities of collaboration, ultimately steering toward achieving exceptional results together.
 
 # 💻 Tech Stack
 
