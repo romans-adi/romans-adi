@@ -27,6 +27,3 @@ I honed my skills at online coding school, collaborating with a diverse cohort o
 </div>
 <br />
 
-[![Romans' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romans-adi&theme=dracula&bg_color=0d1117&point=ccc&line=621622&hide_border=true&area=true&area_color=ccc&radius=6&custom_title=Romans'%20contribution)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
