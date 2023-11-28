@@ -1,9 +1,7 @@
 # <div align="left"> Hi. | <br /> My name is Romans. | <br /> I engineer web solutions. | <br /> [:pig:](https://www.linkedin.com/in/obj513/)</div>
 <br />
 
-As a flexible software developer, my expertise extends to UI/UX design, and I command a skill set encompassing HTML, CSS, JavaScript (including React and some Vue.js), Ruby (including the robust Rails framework), as well as experience with PHP and relational databases (RDBMS).
-
-Journeys, both on the road and in the code, reflect the balance I ardently maintain in life. I've covered a comparable distance hitchhiking as the hours dedicated to coding.
+As a flexible software developer, my expertise extends to UI/UX design, and I command a skill set encompassing HTML, CSS, JavaScript (including React and some Vue.js), Ruby (including Rails framework), as well as experience with PHP and relational databases (RDBMS).
 
 I honed my skills at online coding school, collaborating with a diverse cohort of developers. This experience has equipped me with a solid foundation in software development principles. My portfolio is a testament to my ability to construct high-quality web solutions, blending engaging user experiences with a keen eye for UI/UX design.
 
