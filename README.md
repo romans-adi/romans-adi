@@ -6,12 +6,5 @@ As a flexible software developer, my expertise extends to UI/UX design, and I co
 #### Preferred Tech Stack
 
 <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-<img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-
-<br />
-<div align="left">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=romans-adi&theme=gotham" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romans-adi&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-</div>
-<br />
+<img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> <img height="44px" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
